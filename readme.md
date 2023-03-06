@@ -1,4 +1,4 @@
-## Implementation of active suspensions on the half car model available on my GitHub
+##Implementation of active suspensions on the half car model available on my GitHub
 
 
 To run the simulation you need to :
