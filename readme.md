@@ -1,7 +1,4 @@
-######################################################################
-#############Vehicle Control Applications Assignment##################
-####################### Maxime Sabbadini #############################
-######################################################################
+## Implementation of active suspensions on the half car model available on my GitHub
 
 
 To run the simulation you need to :
